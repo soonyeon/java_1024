@@ -1,3 +1,4 @@
+package day02ver2;
 
 public class OpereatorEx08 {
 

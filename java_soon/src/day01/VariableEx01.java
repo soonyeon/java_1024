@@ -1,4 +1,4 @@
-package Study01;
+package day01;
 
 public class VariableEx01 {
 

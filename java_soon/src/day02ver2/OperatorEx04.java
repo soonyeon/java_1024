@@ -1,4 +1,4 @@
-package day02;
+package day02ver2;
 
 public class OperatorEx04 {
 
